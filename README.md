@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-# gitskills
-lllll
-# gitskills
-
